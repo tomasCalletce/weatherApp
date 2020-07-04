@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+body{
+    width: 70%;
+    margin: auto;
+    margin-top: 3rem;
+
+}
+
+
+.wetherInfo{
+  
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    
+}
+
+.top h1{
+  
+    font-size: 4rem;
+    margin-right: 5%;
+    font-weight: 800;
+}
+
+.top h3{
+    font-size: 4rem;
+    font-weight: 300;
+}
+
+.botton{
+
+
+    color: #888888;
+    display: flex;
+    
+}
+
+.description{
+    margin-right: 5%;
+}
+
+.feelsLike{
+    font-weight: 800;
+}
+
+.serchBox{
+
+}
+
+.serchBox input{
+   padding-left: 2%;
+   color: #888888;
+   outline: none;
+   border:  1px solid lightgray;
+   height: 2rem;
+} 
+
+.serchBox button{
+
+    color: white;
+    background: #888888;
+    border: none;
+    outline: none;
+    padding: 0 .5rem 0 .5rem;
+    height: 2rem;
+
+
+
+}
+
+

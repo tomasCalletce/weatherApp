@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MainWeather{
+    font-size: 3rem;
+    font-weight: 500;
+    color: #222831;
+    
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+li{
+    margin-right: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: #888888;
+}
