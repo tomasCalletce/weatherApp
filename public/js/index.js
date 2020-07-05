@@ -7,7 +7,7 @@ const data = function(){
 
             
 
-            let url = `http://127.0.0.1:3004/api?location=${location}`
+            let url = `/api?location=${location}`
 
             fetch(url)
             .then((res)=>{
